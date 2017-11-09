@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShortVideo</string>
+    <string-array name="list_mainmenu">
+        <item>阿里</item>
+        <item>腾讯</item>
+        <item>百度</item>
+        <item>网易</item>
+        <item>七牛</item>
+        <item>金山</item>
+    </string-array>
+</resources>
